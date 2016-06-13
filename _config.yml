@@ -1,8 +1,5 @@
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:            Nicolas Massé
@@ -16,6 +13,11 @@ author:
   email:          nicolas.masse@itix.fr
 
 # Custom vars
-version:             1.0.0
+version:             2.0.0
 github:
   repo:           https://github.com/nmasse-itix/nmasse-itix.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
