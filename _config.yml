@@ -3,7 +3,7 @@ title:            Nicolas Massé
 tagline:          Informatique et BTP
 url:              http://www.itix.fr
 paginate:         1
-baseurl:          /
+baseurl:          http://www.itix.fr/
 author:
   name:           Nicolas Massé
   url:            https://fr.linkedin.com/in/nicolasmasse
